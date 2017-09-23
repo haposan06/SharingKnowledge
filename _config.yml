@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            johaposan blog
+title:            johaposan blog yeah
 tagline:          'a cup or two to share'
 description:      'The <a href="https://haposan06.github.io/SharingKnowledge/" target="_blank">coffe</a> are meant to be shared.'
 url:              https://haposan06.github.io/SharingKnowledge/
